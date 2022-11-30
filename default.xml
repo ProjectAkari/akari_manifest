@@ -16,6 +16,8 @@
            fetch="https://github.com/ProjectAkari"
            revision="refs/heads/tsuru" />
 
+  <remove-project name="platform/packages/apps/Settings" />
+
   <superproject name="platform/superproject" remote="aosp" revision="android-13.0.0_r14" />
   <contactinfo bugurl="go/repo-bug" />
 
