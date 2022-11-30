@@ -881,9 +881,6 @@
   <project path="libcore" name="platform/libcore" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/apps/Browser2" name="platform/packages/apps/Browser2" groups="pdk-fs" />
-  <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" groups="pdk-fs" />
-  <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" groups="pdk-fs" />
   <project path="packages/apps/Car/Calendar" name="platform/packages/apps/Car/Calendar" groups="pdk-fs" />
   <project path="packages/apps/Car/SystemUI" name="platform/packages/apps/Car/SystemUI" groups="pdk-fs" />
   <project path="packages/apps/Car/Cluster" name="platform/packages/apps/Car/Cluster" groups="pdk-fs" />
@@ -906,17 +903,13 @@
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" groups="pdk-fs" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" />
-  <project path="packages/apps/DevCamera" name="platform/packages/apps/DevCamera" groups="pdk" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" groups="pdk-fs" />
   <project path="packages/apps/DocumentsUI" name="platform/packages/apps/DocumentsUI" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/EmergencyInfo" name="platform/packages/apps/EmergencyInfo" groups="pdk-fs" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" groups="pdk-fs" />
-  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" groups="pdk-fs" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" groups="pdk-fs" />
   <project path="packages/apps/ImsServiceEntitlement" name="platform/packages/apps/ImsServiceEntitlement" groups="pdk-fs" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" groups="pdk-fs" />
-  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" groups="pdk-fs" />
-  <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" groups="pdk-fs" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" groups="pdk-fs" />
   <project path="packages/apps/Messaging" name="platform/packages/apps/Messaging" groups="pdk-fs" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" groups="pdk-fs" />
@@ -927,13 +920,11 @@
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" groups="pdk-fs" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" groups="pdk-fs" />
-  <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" groups="pdk-fs" />
   <project path="packages/apps/QuickAccessWallet" name="platform/packages/apps/QuickAccessWallet" groups="pdk-fs" />
   <project path="packages/apps/RemoteProvisioner" name="platform/packages/apps/RemoteProvisioner" groups="pdk-fs" />
   <project path="packages/apps/SafetyRegulatoryInfo" name="platform/packages/apps/SafetyRegulatoryInfo" groups="pdk-fs" />
   <project path="packages/apps/SampleLocationAttribution" name="platform/packages/apps/SampleLocationAttribution" groups="pdk-fs" />
   <project path="packages/apps/SecureElement" name="platform/packages/apps/SecureElement" groups="apps_se,pdk-fs" />
-  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" groups="pdk-fs" />
   <project path="packages/apps/SettingsIntelligence" name="platform/packages/apps/SettingsIntelligence" groups="pdk-fs" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" groups="pdk-fs" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" groups="apps_stk,pdk-fs" />
@@ -943,13 +934,11 @@
   <project path="packages/apps/Test/connectivity" name="platform/packages/apps/Test/connectivity" groups="pdk" />
   <project path="packages/apps/TimeZoneData" name="platform/packages/apps/TimeZoneData" groups="pdk" />
   <project path="packages/apps/TimeZoneUpdater" name="platform/packages/apps/TimeZoneUpdater" groups="pdk" />
-  <project path="packages/apps/ThemePicker" name="platform/packages/apps/ThemePicker" groups="pdk-fs" />
   <project path="packages/apps/Traceur" name="platform/packages/apps/Traceur" groups="pdk-fs" />
   <project path="packages/apps/TvSettings" name="platform/packages/apps/TvSettings" groups="pdk-fs" />
   <project path="packages/apps/TV" name="platform/packages/apps/TV" groups="pdk" />
   <project path="packages/apps/UniversalMediaPlayer" name="platform/packages/apps/UniversalMediaPlayer" />
   <project path="packages/apps/WallpaperPicker" name="platform/packages/apps/WallpaperPicker" groups="pdk-fs"  />
-  <project path="packages/apps/WallpaperPicker2" name="platform/packages/apps/WallpaperPicker2" groups="pdk-fs" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" groups="pdk-fs" />
   <project path="packages/inputmethods/LeanbackIME" name="platform/packages/inputmethods/LeanbackIME" groups="pdk-fs" />
   <project path="packages/modules/adb" name="platform/packages/modules/adb" groups="pdk" />
